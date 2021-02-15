@@ -1,0 +1,16 @@
+---
+title: Staff Engineer
+subtitle: Leadership beyond the management track
+author: Will Larson
+_publisher: Will Larson Books
+lang: en-US
+rights: © 2020 Will Larson
+cover-image: StaffEngCover.jpg
+alt-cover-image: StaffEngCover.png
+stylesheet: epub.css
+mainfont: Source Serif Pro
+sansfont: Source Sans Pro
+linestretch: 1.25
+---
+
+

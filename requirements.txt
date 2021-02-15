@@ -1,0 +1,4 @@
+pandocfilters==1.4.3
+pypng==0.0.20
+PyQRCode==1.2.1
+PyYAML==5.3.1

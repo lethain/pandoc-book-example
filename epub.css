@@ -1,0 +1,70 @@
+@font-face {
+    font-family: SourceSansPro;
+    font-style: normal;
+    font-weight: normal;
+    src:url("SourceSansPro-Regular.ttf");
+}
+
+@font-face {
+    font-family: SourceSansPro;
+    font-style: normal;
+    font-weight: bold;
+    src:url("SourceSansPro-Bold.ttf");
+}
+
+@font-face {
+    font-family: SourceSansPro;
+    font-style: normal;
+    font-weight: lighter;
+    src:url("SourceSansPro-Light.ttf");
+}
+
+@font-face {
+    font-family: SourceSerifPro;
+    font-style: normal;
+    font-weight: normal;
+    src:url("SourceSerifPro-Regular.ttf");
+}
+
+@font-face {
+    font-family: SourceSerifPro;
+    font-style: normal;
+    font-weight: bold;
+    src:url("SourceSerifPro-Bold.ttf");
+}
+
+@font-face {
+    font-family: SourceSerifPro;
+    font-style: normal;
+    font-weight: lighter;
+    src:url("SourceSerifPro-Light.ttf");
+}
+
+h2 {
+    page-break-before: always;
+}
+
+/*
+h1.title { }
+h2.author { }
+h3.date { }
+*/
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }
+
+body {
+    margin: 5%;
+    text-align: justify;
+    font-size: medium;
+    font-family: 'SourceSerifPro', serif;
+    line-height: 1.25;
+}
+body & {
+    line-height: inherit;
+}
+
+code { font-family: monospace; }
+h1, h2, h3, h4, h5, h6 {
+    text-align: left;
+    font-family: 'SourceSansPro', san-serif;
+}
