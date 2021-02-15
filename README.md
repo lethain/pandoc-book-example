@@ -1,4 +1,16 @@
 
+
+# THIS REPOSITORY IS PROVIDED "AS IS" FOR FOLKS LOOKIN FOR A REAL EXAMPLE OF WORKING WITH PANDOC FOR A REAL BOOK. UNFORTUNATELY I WILL NOT BE ABLE TO ANSWER QUESTIONS ABOUT HOW TO USE ANY OF THESE PIECES, AND IT IS NOT MEANT TO BE USED DIRECTLY. IT IS INSTEAD INTENDED TO BE USED AS A REFERENCE FOR A FEW DIFFERENT IDEAS AND SO ON!
+
+
+This repository contains the interesting pieces behind the build process used for _[Staff Engineer](https://staffeng.com)_.
+
+---
+
+
+
+
+
 Repository for building the _Staff Engineer_ book.
 
 ## Setup
